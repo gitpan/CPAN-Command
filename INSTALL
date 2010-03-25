@@ -1,9 +1,10 @@
+
 This is the Perl distribution CPAN-Command.
 
 ## Installation
 
-CPAN-Command installation is straightforward. If your CPAN shell is
-set up, you should just be able to do
+CPAN-Command installation is straightforward.
+If your CPAN shell is set up, you should just be able to do
 
     % cpan CPAN::Command
 
@@ -18,10 +19,9 @@ Then install it:
 
 ## Documentation
 
-CPAN-Command documentation is available as in POD. So you can do:
+CPAN-Command documentation is available as in POD.
+So you can do:
 
     % perldoc CPAN::Command
 
-to read the documentation online with your favorite pager.
-
-Marcel Gruenauer
+to read the documentation with your favorite pager.
